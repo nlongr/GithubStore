@@ -1,0 +1,29 @@
+D:\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll.config
+D:\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll
+D:\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.pdb
+D:\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.dll
+D:\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.dll
+D:\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.xml
+D:\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.xml
+D:\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.dll
+D:\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.pdb
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll.config
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.pdb
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.dll
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.dll
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.xml
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.xml
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.dll
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.pdb
+D:\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.csprojResolveAssemblyReference.cache
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll.config
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\DienMayServices.pdb
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.xml
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\bin\EntityFramework.SqlServer.xml
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.csprojResolveAssemblyReference.cache
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05WCF_SOAP\DienMayServices\obj\Debug\DienMayServices.pdb

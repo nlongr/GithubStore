@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2474fe00-63d3-49ed-873e-ef9c78acf0a3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3297/ChungLoaiService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ChungLoaiService.xsd" MetadataType="Schema" ID="f60c2e4d-16cc-4a30-818c-033349099ce2" SourceId="1" SourceUrl="http://localhost:3297/ChungLoaiService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ChungLoaiService1.xsd" MetadataType="Schema" ID="27f0acab-1c6a-49d9-8177-873b498ebbce" SourceId="1" SourceUrl="http://localhost:3297/ChungLoaiService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ChungLoaiService2.xsd" MetadataType="Schema" ID="b3a91199-0bab-408b-b63a-e19df4d4996d" SourceId="1" SourceUrl="http://localhost:3297/ChungLoaiService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ChungLoaiService.wsdl" MetadataType="Wsdl" ID="794f75d6-e893-4e08-88d0-48ca25ff641a" SourceId="1" SourceUrl="http://localhost:3297/ChungLoaiService.svc?wsdl" />
+    <MetadataFile FileName="ChungLoaiService.disco" MetadataType="Disco" ID="496713bc-1d6b-4670-b44a-d06fff0899a3" SourceId="1" SourceUrl="http://localhost:3297/ChungLoaiService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

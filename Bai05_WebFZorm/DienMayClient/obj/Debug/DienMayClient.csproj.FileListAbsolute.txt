@@ -1,0 +1,16 @@
+D:\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll.config
+D:\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll
+D:\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.pdb
+D:\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.dll
+D:\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.pdb
+D:\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll.config
+D:\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll
+D:\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.pdb
+D:\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.dll
+D:\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.pdb
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll.config
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\bin\DienMayClient.pdb
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.csprojResolveAssemblyReference.cache
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.dll
+E:\REVIT\04. Coding\KHTN\LTV Buoi 16\Bai05_SOAP\Bai05_WebFZorm\DienMayClient\obj\Debug\DienMayClient.pdb
